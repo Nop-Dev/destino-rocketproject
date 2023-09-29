@@ -1,0 +1,63 @@
+  @import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Dosis&display=swap');
+
+body {
+    margin: 0;
+}
+
+#content {
+    width: 626px;
+    margin: auto;
+}
+
+h1 {
+    font-family: 'Croissant One', sans-serif;
+    font-size: 40px;
+}
+
+#rosa {
+    color: #EE24FF;
+}
+
+p {
+    color: #828282;
+    font-size: 20px;
+    font-family: 'Dosis', sans-serif;
+}
+
+span {
+    font-weight: bold;
+    color: #3F3D56;
+}
+
+footer {
+    color: #3F3D56;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: #3F3D56;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #3F3D56;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    margin: 10px;
+}
+
+#wave {
+    position: relative;
+    width: 100vw;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+}
